@@ -2,6 +2,7 @@
 <p align='center'>---------------------------------------------------------------------------</p>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=dierovita&show_icons=true&title_color=ffffff&text_color=ecf2ea&icon_color=ff6e00&bg_color=0e243c&cache_seconds=2300" alt="ilustração do status do github">
+<br>
 
 ### Olá, meu nome é Diego Vitali!
 
