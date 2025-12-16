@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=DIEGO VITALI&color=ff6e00&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudante de ADS do IFSP!<br/> Eu sou desenvolvedor Back-End em Aprendizado!</p>
+<p>Estudante de ADS do IFSP!<br/> Eu sou analista e engenheiro de dados e estudante focado em DevOps e Back-End!</p>
 <br>
 <br>
 <p align='center'> - > CONTATO < -</p>
